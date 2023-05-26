@@ -1,7 +1,7 @@
                                                                 Sample BIO-DATA
-Name	:	Nandhinee
-Father Name	:	Kanniyappan
-Mother Name	:	Latha
+Name	:	asdsdfa
+Father Name	:	asdfsadfsad
+Mother Name	:	asdsadgsg
 Date of Birth	:	13-07-1997
 Qualification	:	B.E
 Address	:Chennai
